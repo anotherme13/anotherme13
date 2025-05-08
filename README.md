@@ -14,7 +14,7 @@
 🔹 Flare-On
 🔹 Some other security projects
 ```
-### 🛠️ Pwnable Challenges
+### 🛠️ Pwnable 
 
 <table>
   <tr>
