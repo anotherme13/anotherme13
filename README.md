@@ -18,18 +18,20 @@
 
 <table>
   <tr>
-    <td width="30%">
+    <td style="vertical-align: top; width: 40%;">
       <a href="https://github.com/anotherme13/ROP_Challs">
         <img src="https://github.com/anotherme13/anotherme13/blob/main/ROP.png" alt="ROP_Challs" width="100%">
       </a>
     </td>
-    <td>
-      <h4><a href="https://github.com/anotherme13/ROP_Challs">ROP_Challs</a></h4>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3><a href="https://github.com/anotherme13/ROP_Challs">ROP_Challs</a></h3>
       <p>
-        ROP-Emporium 
+         ROP_Emporium practice!
       </p>
     </td>
   </tr>
+</table>
+
 </table>
 
 
