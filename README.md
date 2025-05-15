@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <code>Hieu Tran</code></h1>
+![image](https://hackmd.io/_uploads/rJxeGxHiR.png)
 
 <p align="center">
   🧠 Binary player | 🛠 CTF Player | 🧩 Problem Solver
